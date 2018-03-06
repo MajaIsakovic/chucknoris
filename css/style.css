@@ -1,0 +1,94 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #50514F;
+    margin: 0;
+    padding: 0;
+}
+
+ body{
+    background-image: url("../images/chuck3.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    
+} 
+
+.wrapper{
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 600px;
+}
+
+
+h1{
+    color: #50514F;
+    padding: 30px;
+    padding-left: 80px;
+    text-align: center;
+    margin-top:-15px;
+}
+
+h3{
+    text-align: left;
+    margin-top:-25px;
+    padding-bottom: 40px;
+}
+
+form{
+    color: #50514F;
+    width: 180px;
+    background: #EAE2B7;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+
+label{
+    color: #50514F;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+}
+
+.number{
+    margin: 5px 5px 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #50514F;
+}
+
+.submit{
+    color: #50514F;
+    font-weight: bold;
+    background: #fff;
+    text-align: center;
+    margin: 4px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #50514F;
+    font-weight: bold;
+}
+
+.submit:hover{
+    background: #50514F;
+    font-weight: 800;
+    color: white;
+    border: 2px solid #50514F;
+}
+
+p{
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+#p{
+    color: red;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1;
+}
+
